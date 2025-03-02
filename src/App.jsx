@@ -7,7 +7,7 @@ import Tokenomics from "./components/pages/Tokenomics";
 import Roadmap from "./components/pages/Roadmap";
 import JoinCommunity from "./components/pages/JoinCommunity";
 import FlowFrameBar from "./components/assisstes/FlowFrameBar";
-import Sidebar from "./components/assisstes/sidebar";
+import Sidebar from "./components/assisstes/Sidebar";
 
 import { useSpring, animated } from "@react-spring/web";
 

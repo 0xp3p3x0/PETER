@@ -1,0 +1,42 @@
+@font-face {
+  font-family: "TitanOne";
+  src: url("./TitanOne-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Baloo";
+  src: url("./Baloo-Regular.ttf") format("truetype");
+}
+
+.headlogo {
+  /* Frame 1000003069 */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 10px;
+
+  position: absolute;
+  width: 168px;
+  height: 49px;
+  left: 180px;
+  top: 42px;
+}
+
+#logo {
+  /* Ellipse 1 */
+
+  width: 49px;
+  height: 49px;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+#pgc {
+  font-family: "TitanOne";
+}

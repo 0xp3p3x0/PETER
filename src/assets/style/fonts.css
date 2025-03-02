@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Baloo Da";
+  src: url("/assets/style/BalooDa-Regular.woff2") format("woff2"),
+    url("/assets/style/BalooDa-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  size: 40px;
+  line-height: 56px;
+}
+
+@font-face {
+  font-family: "Baloo Da";
+  src: url("/assets/style/BalooDa-Bold.woff2") format("woff2"),
+    url("/assets/style/BalooDa-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
